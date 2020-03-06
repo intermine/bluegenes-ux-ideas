@@ -1,6 +1,6 @@
 # bluegenes-ux-ideas
 
-Guidance: This repo is a place for Outreachy applicants to share and discuss ideas for the BlueGenes UX project. To add an idea, please create an [issue](issues) - and feel free to comment on ideas from others! 
+Guidance: This repo is a place for Outreachy applicants to share and discuss ideas for the BlueGenes UX project. To add an idea, please create an [issue](https://github.com/intermine/bluegenes-ux-ideas/issues) - and feel free to comment on ideas from others! 
 
 ## Some links: 
 
